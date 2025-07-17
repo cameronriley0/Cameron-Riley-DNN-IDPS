@@ -205,8 +205,8 @@ python create_synthetic_medical_records.py
 
 The project was tested in a virtual machine setup simulating:
 
-- DoS
-- DDoS
+- TCP Attacks
+- UDP Attacks
 - Reconnaissance
 - Spoofing
 - MQTT-based attacks
