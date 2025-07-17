@@ -18,7 +18,7 @@ By using this code, you agree to take full responsibility for ensuring your use 
 
 ## Project Overview
 
-This project implements a Deep Neural Network (DNN)-based Intrusion Detection and Prevention System (IDPS) designed to secure medical databases. It leverages a two-tier classification approach: a binary classifier to distinguish between benign and malicious network traffic, and a multi-class classifier to categorise specific types of attacks. The system integrates with a firewall to provide real-time threat detection and automated blocking of malicious IP addresses.
+This project implements a Deep Neural Network (DNN)-based Intrusion Detection and Prevention System (IDPS) designed to secure medical networks and databases. It leverages a two-tier classification approach: a binary classifier to distinguish between benign and malicious network traffic, and a multi-class classifier to categorise specific types of attacks. The system integrates with a firewall to provide real-time threat detection and automated blocking of malicious IP addresses.
 
 The motivation behind this project stems from the increasing digitisation of healthcare systems, which has made medical databases prime targets for cyber-attacks. Traditional Intrusion Detection Systems (IDS) often struggle with evolving and zero-day threats. This DNN-IDPS aims to address these shortcomings by providing a more adaptive and robust solution for protecting sensitive patient data.
 
